@@ -31,7 +31,7 @@ An end-to-end Machine Learning project that aggregates mock student data records
 
 ---
 
-
+App link: https://student-profile-classifier-nhexukoiadpyuijdrgmfxr.streamlit.app/
 
 ---
 
