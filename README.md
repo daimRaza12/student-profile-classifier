@@ -31,23 +31,7 @@ An end-to-end Machine Learning project that aggregates mock student data records
 
 ---
 
-## 🚀 Getting Started locally
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/YOUR_USERNAME/student-profile-classifier.git
-cd student-profile-classifier
-```
-
-### 2. Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run the Streamlit Application
-```bash
-streamlit run app.py
-```
 
 ---
 
